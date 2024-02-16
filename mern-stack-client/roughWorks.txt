@@ -17,8 +17,8 @@ App Structure
 |---● reducers
 |   |
 |   |--postMessage.js
-|   |--index.js
+|   |--index.mjs
 |
 |-- App.js
-|-- index.js
+|-- index.mjs
 |-- index.css
